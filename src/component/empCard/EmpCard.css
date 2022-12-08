@@ -1,0 +1,125 @@
+.tableContainer{
+width: 80%;
+/* border: 2px solid black; */
+margin: 1rem;
+padding: 1rem;
+
+}
+.table{
+    width: 100%;
+}
+.tabHead{
+    width: 100%;
+}
+
+.tabBody{
+
+  width: 100%;
+  padding: 4rem;
+  box-shadow: 0.5rem 0.5rem 0.5rem rgb(240, 236, 236);
+}
+.dataRow{
+ width: 100%;
+}
+.firstIc{
+    width: 30%;
+    /* padding-top: 2rem; */
+}
+.firstNm{
+  width:70%;
+  
+  
+}
+.firstNm h4{
+    margin: 0;
+}
+
+.dataRow td{
+    text-align: center;
+    padding: 0.5rem;
+}
+
+.firstCh{
+    width: 100%;
+    display: flex;
+}
+.firstCh div{
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+    
+
+}
+.greaterIcon{
+    padding: 15px;
+    width: 15%;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .empContainer{
+    width: 70%;
+    border: 2px solid black;
+    padding: 1rem 1rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.nameSec{
+ display: flex;
+ flex-direction: column;
+}
+.perSec{
+
+}
+.numSec{
+
+}
+.batchSec{
+
+}
+.DesinSec{
+
+}
+.updSec{
+
+}
+.colSec{
+    width: 15%;
+    height: 5%;
+    background: rgb(89, 108, 147);
+    padding-right: 0;
+} */
+
+

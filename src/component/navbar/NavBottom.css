@@ -1,0 +1,31 @@
+.list-container {
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    flex: 1;
+    justify-content: space-between;
+    background: white;
+    /* border-bottom: 1px solid grey; */
+
+}
+
+.list span {
+    font-size: 1.5rem;
+    padding: 10px;
+
+}
+.user{
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: blue;
+    font-weight: bold;
+    padding-right: 1rem;
+}
+h2{
+    font-size: 2rem;
+    font-weight: 700;
+    padding-left: 10px;
+    opacity: 0.5;
+}
+

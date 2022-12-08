@@ -1,0 +1,52 @@
+.branchContainer {
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px solid black; */
+    width: 100%;
+    
+    
+ }
+ .branch {
+    width: 10%;
+    font-size: 2rem;
+    padding: 0.5rem;
+    padding-left: 2rem;
+    font-variant: normal;
+    font-weight: 900;
+ }
+ .branch  span{
+    font-size: 1.5rem;
+    font-weight: 600;
+    /* opacity: ; */
+ }
+ .buttonClass {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+ }
+ .buttonSection {
+    width: 25%;
+    border: 2px solid blue;
+    padding: 0.5rem;
+    padding-left: 2rem;
+    border-radius: 1rem;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+     cursor: pointer;
+     color: blue;
+     font-weight: 600;
+    
+
+
+ }
+ .buttonSection button {
+    border: none;
+    font-size: 1.2rem;
+    font-weight: 500;
+
+ }
+
+
+ 

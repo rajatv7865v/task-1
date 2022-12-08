@@ -1,0 +1,24 @@
+.barContainer{
+/* border: 2px solid black; */
+width: 20%;
+padding: 1rem;
+padding-left: 2rem;
+display: flex;
+justify-content: space-between;
+box-shadow: 0.5rem 0.5rem 0.5rem rgb(204, 200, 200);
+}
+.barChildContainer{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+
+.LeftBar{
+    padding: 1rem;
+}
+.NUmericBar{
+    padding: 1rem;
+    font-size:2rem;
+    font-weight: 700;
+}

@@ -1,0 +1,77 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 0.75rem 0 0.75rem 0;
+    background: rgb(32, 32, 160);
+    /* border: 2px solid black; */
+
+}
+.child-container{
+    width: 33%;
+    /* border: 1px solid black; */
+}
+.middle{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+.inputSection{
+    width: 80%;
+    border-radius: 1rem;
+    border: 1px solid rgb(153, 149, 149);
+    background: white;
+    
+
+
+}
+input{
+    padding: 0.5rem;
+    width: 90%;
+    outline: none;
+    border: none;
+    color: white;
+
+    
+}
+.iconSection{
+    width: 20%;
+    padding-left: 22px;
+    color: white;
+}
+.last{
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+
+
+}
+.bell{
+    border: 1px solid grey;
+    border-radius: 1rem;
+    padding: 0.25rem;
+    background: orange;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.profile{
+    border: 1px solid rgb(156, 154, 154);
+    border-radius: 1rem;
+    padding: 0.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.watch{
+    border: 1px solid rgb(156, 154, 154);
+    border-radius: 0.5rem;
+    padding: 0.25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(224, 219, 219);
+}

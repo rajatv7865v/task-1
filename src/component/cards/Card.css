@@ -1,0 +1,61 @@
+.cardContainer {
+  width: 25%;
+  /* border: 2px solid black; */
+  padding: 1rem;
+  box-shadow: 0.5rem 0.5rem 0.5rem rgb(214, 211, 211);
+}
+
+.childCardContainer{
+  width: 100%;
+  display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+    
+
+}
+
+.colorBor{
+    /* border-left: 0.5rem solid green; */
+    /* border-radius: 8px; */
+    padding-left: 1rem;
+
+}
+
+.iconSec{
+    display: flex;
+    justify-content: space-around;
+    gap: 1rem;
+}
+.cardRight p{
+   display: flex;
+   justify-content: space-around;   
+}
+.cardMiddleSec{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1rem;
+}
+.cardMiddleSec span{
+    width: 50%;
+    text-align: center;
+}
+.cardLastSec{
+ display: flex;
+ justify-content: space-around;
+ border-top: 1px solid grey;
+ padding: 1rem;
+}
+.studentSec{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ gap: 1rem;
+
+}
+.lineSec{
+    border-right: 1px solid grey;
+    
+}
