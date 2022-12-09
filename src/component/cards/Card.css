@@ -3,6 +3,7 @@
   /* border: 2px solid black; */
   padding: 1rem;
   box-shadow: 0.5rem 0.5rem 0.5rem rgb(214, 211, 211);
+  background: white;
 }
 
 .childCardContainer{

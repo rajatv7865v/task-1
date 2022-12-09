@@ -2,10 +2,11 @@
 /* border: 2px solid black; */
 width: 20%;
 padding: 1rem;
-padding-left: 2rem;
+/* padding-left: 2rem; */
 display: flex;
 justify-content: space-between;
 box-shadow: 0.5rem 0.5rem 0.5rem rgb(204, 200, 200);
+/* background: white; */
 }
 .barChildContainer{
     display: flex;

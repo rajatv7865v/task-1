@@ -3,6 +3,7 @@ width: 80%;
 /* border: 2px solid black; */
 margin: 1rem;
 padding: 1rem;
+border: none;
 
 }
 .table{
@@ -13,7 +14,7 @@ padding: 1rem;
 }
 
 .tabBody{
-
+background: white;
   width: 100%;
   padding: 4rem;
   box-shadow: 0.5rem 0.5rem 0.5rem rgb(240, 236, 236);
